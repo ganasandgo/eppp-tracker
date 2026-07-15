@@ -1,0 +1,2475 @@
+{
+  "source_url": "https://www.psychology.ca.gov/applicants/exams/statistics.shtml",
+  "last_updated": "2026-07-15T00:00:00Z",
+  "years": {
+    "2016": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 79,
+          "passed": 33,
+          "pct_passed": 41.77,
+          "first_timers": 27,
+          "first_time_passed": 22,
+          "pct_first_time_passed": 81.48
+        },
+        {
+          "month": "February",
+          "candidates": 105,
+          "passed": 56,
+          "pct_passed": 53.33,
+          "first_timers": 49,
+          "first_time_passed": 46,
+          "pct_first_time_passed": 93.88
+        },
+        {
+          "month": "March",
+          "candidates": 124,
+          "passed": 80,
+          "pct_passed": 64.52,
+          "first_timers": 68,
+          "first_time_passed": 62,
+          "pct_first_time_passed": 91.18
+        },
+        {
+          "month": "April",
+          "candidates": 106,
+          "passed": 54,
+          "pct_passed": 50.94,
+          "first_timers": 57,
+          "first_time_passed": 46,
+          "pct_first_time_passed": 80.7
+        },
+        {
+          "month": "May",
+          "candidates": 162,
+          "passed": 90,
+          "pct_passed": 55.56,
+          "first_timers": 81,
+          "first_time_passed": 71,
+          "pct_first_time_passed": 87.65
+        },
+        {
+          "month": "June",
+          "candidates": 135,
+          "passed": 72,
+          "pct_passed": 53.33,
+          "first_timers": 75,
+          "first_time_passed": 61,
+          "pct_first_time_passed": 81.33
+        },
+        {
+          "month": "July",
+          "candidates": 145,
+          "passed": 88,
+          "pct_passed": 60.69,
+          "first_timers": 107,
+          "first_time_passed": 34,
+          "pct_first_time_passed": 31.78
+        },
+        {
+          "month": "August",
+          "candidates": 135,
+          "passed": 77,
+          "pct_passed": 57.04,
+          "first_timers": 84,
+          "first_time_passed": 63,
+          "pct_first_time_passed": 75.0
+        },
+        {
+          "month": "September",
+          "candidates": 131,
+          "passed": 57,
+          "pct_passed": 43.51,
+          "first_timers": 76,
+          "first_time_passed": 43,
+          "pct_first_time_passed": 56.58
+        },
+        {
+          "month": "October",
+          "candidates": 115,
+          "passed": 54,
+          "pct_passed": 46.96,
+          "first_timers": 62,
+          "first_time_passed": 35,
+          "pct_first_time_passed": 56.45
+        },
+        {
+          "month": "November",
+          "candidates": 94,
+          "passed": 39,
+          "pct_passed": 41.49,
+          "first_timers": 43,
+          "first_time_passed": 29,
+          "pct_first_time_passed": 67.44
+        },
+        {
+          "month": "December",
+          "candidates": 107,
+          "passed": 49,
+          "pct_passed": 45.79,
+          "first_timers": 63,
+          "first_time_passed": 41,
+          "pct_first_time_passed": 65.08
+        }
+      ],
+      "total": {
+        "candidates": 1438,
+        "passed": 749,
+        "pct_passed": 52.09,
+        "first_timers": 792,
+        "first_time_passed": 553,
+        "pct_first_time_passed": 69.82
+      }
+    },
+    "2017": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 93,
+          "passed": 52,
+          "pct_passed": 55.91,
+          "first_timers": 53,
+          "first_time_passed": 39,
+          "pct_first_time_passed": 73.58
+        },
+        {
+          "month": "February",
+          "candidates": 104,
+          "passed": 58,
+          "pct_passed": 55.77,
+          "first_timers": 54,
+          "first_time_passed": 41,
+          "pct_first_time_passed": 75.93
+        },
+        {
+          "month": "March",
+          "candidates": 147,
+          "passed": 75,
+          "pct_passed": 51.02,
+          "first_timers": 90,
+          "first_time_passed": 61,
+          "pct_first_time_passed": 67.78
+        },
+        {
+          "month": "April",
+          "candidates": 125,
+          "passed": 76,
+          "pct_passed": 60.8,
+          "first_timers": 84,
+          "first_time_passed": 66,
+          "pct_first_time_passed": 78.57
+        },
+        {
+          "month": "May",
+          "candidates": 177,
+          "passed": 101,
+          "pct_passed": 57.06,
+          "first_timers": 120,
+          "first_time_passed": 81,
+          "pct_first_time_passed": 67.5
+        },
+        {
+          "month": "June",
+          "candidates": 157,
+          "passed": 95,
+          "pct_passed": 60.51,
+          "first_timers": 99,
+          "first_time_passed": 72,
+          "pct_first_time_passed": 72.73
+        },
+        {
+          "month": "July",
+          "candidates": 179,
+          "passed": 105,
+          "pct_passed": 58.66,
+          "first_timers": 112,
+          "first_time_passed": 80,
+          "pct_first_time_passed": 71.43
+        },
+        {
+          "month": "August",
+          "candidates": 135,
+          "passed": 78,
+          "pct_passed": 57.78,
+          "first_timers": 81,
+          "first_time_passed": 59,
+          "pct_first_time_passed": 72.84
+        },
+        {
+          "month": "September",
+          "candidates": 137,
+          "passed": 64,
+          "pct_passed": 46.72,
+          "first_timers": 88,
+          "first_time_passed": 54,
+          "pct_first_time_passed": 61.36
+        },
+        {
+          "month": "October",
+          "candidates": 102,
+          "passed": 40,
+          "pct_passed": 39.22,
+          "first_timers": 63,
+          "first_time_passed": 32,
+          "pct_first_time_passed": 50.79
+        },
+        {
+          "month": "November",
+          "candidates": 104,
+          "passed": 46,
+          "pct_passed": 44.23,
+          "first_timers": 41,
+          "first_time_passed": 23,
+          "pct_first_time_passed": 56.1
+        },
+        {
+          "month": "December",
+          "candidates": 131,
+          "passed": 66,
+          "pct_passed": 50.38,
+          "first_timers": 65,
+          "first_time_passed": 46,
+          "pct_first_time_passed": 70.77
+        }
+      ],
+      "total": {
+        "candidates": 1591,
+        "passed": 855,
+        "pct_passed": 53.74,
+        "first_timers": 950,
+        "first_time_passed": 654,
+        "pct_first_time_passed": 68.84
+      }
+    },
+    "2018": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 104,
+          "passed": 57,
+          "pct_passed": 54.81,
+          "first_timers": 61,
+          "first_time_passed": 42,
+          "pct_first_time_passed": 68.85
+        },
+        {
+          "month": "February",
+          "candidates": 115,
+          "passed": 56,
+          "pct_passed": 48.7,
+          "first_timers": 56,
+          "first_time_passed": 41,
+          "pct_first_time_passed": 73.21
+        },
+        {
+          "month": "March",
+          "candidates": 147,
+          "passed": 75,
+          "pct_passed": 51.02,
+          "first_timers": 86,
+          "first_time_passed": 53,
+          "pct_first_time_passed": 61.63
+        },
+        {
+          "month": "April",
+          "candidates": 154,
+          "passed": 87,
+          "pct_passed": 56.49,
+          "first_timers": 88,
+          "first_time_passed": 65,
+          "pct_first_time_passed": 73.86
+        },
+        {
+          "month": "May",
+          "candidates": 152,
+          "passed": 78,
+          "pct_passed": 51.32,
+          "first_timers": 93,
+          "first_time_passed": 66,
+          "pct_first_time_passed": 70.97
+        },
+        {
+          "month": "June",
+          "candidates": 162,
+          "passed": 87,
+          "pct_passed": 53.7,
+          "first_timers": 96,
+          "first_time_passed": 69,
+          "pct_first_time_passed": 71.88
+        },
+        {
+          "month": "July",
+          "candidates": 173,
+          "passed": 90,
+          "pct_passed": 52.02,
+          "first_timers": 103,
+          "first_time_passed": 71,
+          "pct_first_time_passed": 68.93
+        },
+        {
+          "month": "August",
+          "candidates": 137,
+          "passed": 66,
+          "pct_passed": 48.18,
+          "first_timers": 74,
+          "first_time_passed": 50,
+          "pct_first_time_passed": 67.57
+        },
+        {
+          "month": "September",
+          "candidates": 83,
+          "passed": 38,
+          "pct_passed": 45.78,
+          "first_timers": 41,
+          "first_time_passed": 26,
+          "pct_first_time_passed": 63.41
+        },
+        {
+          "month": "October",
+          "candidates": 147,
+          "passed": 78,
+          "pct_passed": 53.06,
+          "first_timers": 66,
+          "first_time_passed": 47,
+          "pct_first_time_passed": 71.21
+        },
+        {
+          "month": "November",
+          "candidates": 107,
+          "passed": 53,
+          "pct_passed": 49.53,
+          "first_timers": 56,
+          "first_time_passed": 35,
+          "pct_first_time_passed": 62.5
+        },
+        {
+          "month": "December",
+          "candidates": 126,
+          "passed": 61,
+          "pct_passed": 48.41,
+          "first_timers": 63,
+          "first_time_passed": 42,
+          "pct_first_time_passed": 66.67
+        }
+      ],
+      "total": {
+        "candidates": 1607,
+        "passed": 855,
+        "pct_passed": 53.2,
+        "first_timers": 883,
+        "first_time_passed": 607,
+        "pct_first_time_passed": 68.74
+      }
+    },
+    "2019": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 56,
+          "passed": 25,
+          "pct_passed": 44.64,
+          "first_timers": 31,
+          "first_time_passed": 20,
+          "pct_first_time_passed": 64.52
+        },
+        {
+          "month": "February",
+          "candidates": 110,
+          "passed": 59,
+          "pct_passed": 53.64,
+          "first_timers": 62,
+          "first_time_passed": 41,
+          "pct_first_time_passed": 66.13
+        },
+        {
+          "month": "March",
+          "candidates": 157,
+          "passed": 84,
+          "pct_passed": 53.5,
+          "first_timers": 89,
+          "first_time_passed": 67,
+          "pct_first_time_passed": 75.28
+        },
+        {
+          "month": "April",
+          "candidates": 174,
+          "passed": 94,
+          "pct_passed": 54.02,
+          "first_timers": 96,
+          "first_time_passed": 74,
+          "pct_first_time_passed": 77.08
+        },
+        {
+          "month": "May",
+          "candidates": 173,
+          "passed": 84,
+          "pct_passed": 48.55,
+          "first_timers": 95,
+          "first_time_passed": 66,
+          "pct_first_time_passed": 69.47
+        },
+        {
+          "month": "June",
+          "candidates": 148,
+          "passed": 69,
+          "pct_passed": 46.62,
+          "first_timers": 83,
+          "first_time_passed": 56,
+          "pct_first_time_passed": 67.47
+        },
+        {
+          "month": "July",
+          "candidates": 172,
+          "passed": 79,
+          "pct_passed": 45.93,
+          "first_timers": 91,
+          "first_time_passed": 56,
+          "pct_first_time_passed": 61.54
+        },
+        {
+          "month": "August",
+          "candidates": 158,
+          "passed": 71,
+          "pct_passed": 44.94,
+          "first_timers": 86,
+          "first_time_passed": 50,
+          "pct_first_time_passed": 58.14
+        },
+        {
+          "month": "September",
+          "candidates": 115,
+          "passed": 47,
+          "pct_passed": 40.87,
+          "first_timers": 47,
+          "first_time_passed": 28,
+          "pct_first_time_passed": 59.57
+        },
+        {
+          "month": "October",
+          "candidates": 137,
+          "passed": 69,
+          "pct_passed": 50.36,
+          "first_timers": 60,
+          "first_time_passed": 40,
+          "pct_first_time_passed": 66.67
+        },
+        {
+          "month": "November",
+          "candidates": 130,
+          "passed": 63,
+          "pct_passed": 48.46,
+          "first_timers": 65,
+          "first_time_passed": 43,
+          "pct_first_time_passed": 66.15
+        },
+        {
+          "month": "December",
+          "candidates": 186,
+          "passed": 64,
+          "pct_passed": 34.41,
+          "first_timers": 79,
+          "first_time_passed": 45,
+          "pct_first_time_passed": 56.96
+        }
+      ],
+      "total": {
+        "candidates": 1716,
+        "passed": 808,
+        "pct_passed": 47.09,
+        "first_timers": 884,
+        "first_time_passed": 586,
+        "pct_first_time_passed": 66.29
+      }
+    },
+    "2020": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 107,
+          "passed": 51,
+          "pct_passed": 47.66,
+          "first_timers": 64,
+          "first_time_passed": 37,
+          "pct_first_time_passed": 57.81
+        },
+        {
+          "month": "February",
+          "candidates": 103,
+          "passed": 45,
+          "pct_passed": 43.69,
+          "first_timers": 45,
+          "first_time_passed": 31,
+          "pct_first_time_passed": 68.89
+        },
+        {
+          "month": "March",
+          "candidates": 89,
+          "passed": 46,
+          "pct_passed": 51.69,
+          "first_timers": 53,
+          "first_time_passed": 36,
+          "pct_first_time_passed": 67.92
+        },
+        {
+          "month": "April",
+          "candidates": 23,
+          "passed": 11,
+          "pct_passed": 47.83,
+          "first_timers": 17,
+          "first_time_passed": 10,
+          "pct_first_time_passed": 58.82
+        },
+        {
+          "month": "May",
+          "candidates": 127,
+          "passed": 68,
+          "pct_passed": 53.54,
+          "first_timers": 76,
+          "first_time_passed": 56,
+          "pct_first_time_passed": 73.68
+        },
+        {
+          "month": "June",
+          "candidates": 117,
+          "passed": 56,
+          "pct_passed": 47.86,
+          "first_timers": 66,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 66.67
+        },
+        {
+          "month": "July",
+          "candidates": 175,
+          "passed": 82,
+          "pct_passed": 46.86,
+          "first_timers": 94,
+          "first_time_passed": 59,
+          "pct_first_time_passed": 62.77
+        },
+        {
+          "month": "August",
+          "candidates": 124,
+          "passed": 60,
+          "pct_passed": 48.39,
+          "first_timers": 72,
+          "first_time_passed": 47,
+          "pct_first_time_passed": 65.28
+        },
+        {
+          "month": "September",
+          "candidates": 134,
+          "passed": 54,
+          "pct_passed": 40.3,
+          "first_timers": 55,
+          "first_time_passed": 31,
+          "pct_first_time_passed": 56.36
+        },
+        {
+          "month": "October",
+          "candidates": 119,
+          "passed": 55,
+          "pct_passed": 46.22,
+          "first_timers": 55,
+          "first_time_passed": 33,
+          "pct_first_time_passed": 60.0
+        },
+        {
+          "month": "November",
+          "candidates": 144,
+          "passed": 66,
+          "pct_passed": 45.83,
+          "first_timers": 58,
+          "first_time_passed": 43,
+          "pct_first_time_passed": 74.14
+        },
+        {
+          "month": "December",
+          "candidates": 122,
+          "passed": 55,
+          "pct_passed": 45.08,
+          "first_timers": 59,
+          "first_time_passed": 43,
+          "pct_first_time_passed": 72.88
+        }
+      ],
+      "total": {
+        "candidates": 1384,
+        "passed": 649,
+        "pct_passed": 46.89,
+        "first_timers": 714,
+        "first_time_passed": 470,
+        "pct_first_time_passed": 65.83
+      }
+    },
+    "2021": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 99,
+          "passed": 51,
+          "pct_passed": 51.52,
+          "first_timers": 46,
+          "first_time_passed": 32,
+          "pct_first_time_passed": 69.57
+        },
+        {
+          "month": "February",
+          "candidates": 89,
+          "passed": 45,
+          "pct_passed": 50.56,
+          "first_timers": 51,
+          "first_time_passed": 34,
+          "pct_first_time_passed": 66.67
+        },
+        {
+          "month": "March",
+          "candidates": 78,
+          "passed": 36,
+          "pct_passed": 46.15,
+          "first_timers": 37,
+          "first_time_passed": 26,
+          "pct_first_time_passed": 70.27
+        },
+        {
+          "month": "April",
+          "candidates": 152,
+          "passed": 72,
+          "pct_passed": 47.37,
+          "first_timers": 86,
+          "first_time_passed": 53,
+          "pct_first_time_passed": 61.63
+        },
+        {
+          "month": "May",
+          "candidates": 131,
+          "passed": 59,
+          "pct_passed": 45.04,
+          "first_timers": 63,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 69.84
+        },
+        {
+          "month": "June",
+          "candidates": 170,
+          "passed": 75,
+          "pct_passed": 44.12,
+          "first_timers": 83,
+          "first_time_passed": 58,
+          "pct_first_time_passed": 69.88
+        },
+        {
+          "month": "July",
+          "candidates": 163,
+          "passed": 69,
+          "pct_passed": 42.33,
+          "first_timers": 78,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 56.41
+        },
+        {
+          "month": "August",
+          "candidates": 128,
+          "passed": 49,
+          "pct_passed": 38.28,
+          "first_timers": 60,
+          "first_time_passed": 40,
+          "pct_first_time_passed": 66.67
+        },
+        {
+          "month": "September",
+          "candidates": 117,
+          "passed": 46,
+          "pct_passed": 39.32,
+          "first_timers": 60,
+          "first_time_passed": 35,
+          "pct_first_time_passed": 58.33
+        },
+        {
+          "month": "October",
+          "candidates": 100,
+          "passed": 30,
+          "pct_passed": 30.0,
+          "first_timers": 47,
+          "first_time_passed": 21,
+          "pct_first_time_passed": 44.68
+        },
+        {
+          "month": "November",
+          "candidates": 127,
+          "passed": 42,
+          "pct_passed": 33.07,
+          "first_timers": 49,
+          "first_time_passed": 24,
+          "pct_first_time_passed": 48.98
+        },
+        {
+          "month": "December",
+          "candidates": 117,
+          "passed": 40,
+          "pct_passed": 34.19,
+          "first_timers": 41,
+          "first_time_passed": 25,
+          "pct_first_time_passed": 60.98
+        }
+      ],
+      "total": {
+        "candidates": 1471,
+        "passed": 614,
+        "pct_passed": 41.74,
+        "first_timers": 701,
+        "first_time_passed": 436,
+        "pct_first_time_passed": 62.2
+      }
+    },
+    "2022": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 100,
+          "passed": 35,
+          "pct_passed": 35.0,
+          "first_timers": 49,
+          "first_time_passed": 28,
+          "pct_first_time_passed": 57.14
+        },
+        {
+          "month": "February",
+          "candidates": 131,
+          "passed": 54,
+          "pct_passed": 41.22,
+          "first_timers": 57,
+          "first_time_passed": 41,
+          "pct_first_time_passed": 71.93
+        },
+        {
+          "month": "March",
+          "candidates": 146,
+          "passed": 63,
+          "pct_passed": 43.15,
+          "first_timers": 83,
+          "first_time_passed": 49,
+          "pct_first_time_passed": 59.04
+        },
+        {
+          "month": "April",
+          "candidates": 133,
+          "passed": 56,
+          "pct_passed": 42.11,
+          "first_timers": 59,
+          "first_time_passed": 40,
+          "pct_first_time_passed": 67.8
+        },
+        {
+          "month": "May",
+          "candidates": 128,
+          "passed": 56,
+          "pct_passed": 43.75,
+          "first_timers": 58,
+          "first_time_passed": 38,
+          "pct_first_time_passed": 65.52
+        },
+        {
+          "month": "June",
+          "candidates": 128,
+          "passed": 55,
+          "pct_passed": 42.97,
+          "first_timers": 63,
+          "first_time_passed": 45,
+          "pct_first_time_passed": 71.43
+        },
+        {
+          "month": "July",
+          "candidates": 146,
+          "passed": 55,
+          "pct_passed": 37.67,
+          "first_timers": 66,
+          "first_time_passed": 37,
+          "pct_first_time_passed": 56.06
+        },
+        {
+          "month": "August",
+          "candidates": 138,
+          "passed": 59,
+          "pct_passed": 42.75,
+          "first_timers": 66,
+          "first_time_passed": 41,
+          "pct_first_time_passed": 62.12
+        },
+        {
+          "month": "September",
+          "candidates": 121,
+          "passed": 46,
+          "pct_passed": 38.02,
+          "first_timers": 52,
+          "first_time_passed": 31,
+          "pct_first_time_passed": 59.62
+        },
+        {
+          "month": "October",
+          "candidates": 127,
+          "passed": 36,
+          "pct_passed": 28.35,
+          "first_timers": 58,
+          "first_time_passed": 27,
+          "pct_first_time_passed": 46.55
+        },
+        {
+          "month": "November",
+          "candidates": 130,
+          "passed": 51,
+          "pct_passed": 39.23,
+          "first_timers": 55,
+          "first_time_passed": 38,
+          "pct_first_time_passed": 69.09
+        },
+        {
+          "month": "December",
+          "candidates": 138,
+          "passed": 43,
+          "pct_passed": 31.16,
+          "first_timers": 58,
+          "first_time_passed": 29,
+          "pct_first_time_passed": 50.0
+        }
+      ],
+      "total": {
+        "candidates": 1566,
+        "passed": 609,
+        "pct_passed": 38.89,
+        "first_timers": 724,
+        "first_time_passed": 444,
+        "pct_first_time_passed": 61.33
+      }
+    },
+    "2023": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 116,
+          "passed": 39,
+          "pct_passed": 33.62,
+          "first_timers": 57,
+          "first_time_passed": 32,
+          "pct_first_time_passed": 56.14
+        },
+        {
+          "month": "February",
+          "candidates": 126,
+          "passed": 59,
+          "pct_passed": 46.83,
+          "first_timers": 65,
+          "first_time_passed": 41,
+          "pct_first_time_passed": 63.08
+        },
+        {
+          "month": "March",
+          "candidates": 166,
+          "passed": 85,
+          "pct_passed": 51.2,
+          "first_timers": 91,
+          "first_time_passed": 67,
+          "pct_first_time_passed": 73.63
+        },
+        {
+          "month": "April",
+          "candidates": 186,
+          "passed": 88,
+          "pct_passed": 47.31,
+          "first_timers": 94,
+          "first_time_passed": 66,
+          "pct_first_time_passed": 70.21
+        },
+        {
+          "month": "May",
+          "candidates": 194,
+          "passed": 72,
+          "pct_passed": 37.11,
+          "first_timers": 95,
+          "first_time_passed": 57,
+          "pct_first_time_passed": 60.0
+        },
+        {
+          "month": "June",
+          "candidates": 137,
+          "passed": 61,
+          "pct_passed": 44.53,
+          "first_timers": 60,
+          "first_time_passed": 39,
+          "pct_first_time_passed": 65.0
+        },
+        {
+          "month": "July",
+          "candidates": 179,
+          "passed": 68,
+          "pct_passed": 37.99,
+          "first_timers": 90,
+          "first_time_passed": 51,
+          "pct_first_time_passed": 56.67
+        },
+        {
+          "month": "August",
+          "candidates": 174,
+          "passed": 62,
+          "pct_passed": 35.63,
+          "first_timers": 79,
+          "first_time_passed": 42,
+          "pct_first_time_passed": 53.16
+        },
+        {
+          "month": "September",
+          "candidates": 129,
+          "passed": 42,
+          "pct_passed": 32.56,
+          "first_timers": 44,
+          "first_time_passed": 24,
+          "pct_first_time_passed": 54.55
+        },
+        {
+          "month": "October",
+          "candidates": 139,
+          "passed": 43,
+          "pct_passed": 30.94,
+          "first_timers": 56,
+          "first_time_passed": 21,
+          "pct_first_time_passed": 37.5
+        },
+        {
+          "month": "November",
+          "candidates": 112,
+          "passed": 40,
+          "pct_passed": 35.71,
+          "first_timers": 43,
+          "first_time_passed": 26,
+          "pct_first_time_passed": 60.47
+        },
+        {
+          "month": "December",
+          "candidates": 132,
+          "passed": 43,
+          "pct_passed": 32.58,
+          "first_timers": 46,
+          "first_time_passed": 25,
+          "pct_first_time_passed": 54.35
+        }
+      ],
+      "total": {
+        "candidates": 1790,
+        "passed": 702,
+        "pct_passed": 39.22,
+        "first_timers": 820,
+        "first_time_passed": 491,
+        "pct_first_time_passed": 59.88
+      }
+    },
+    "2024": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 109,
+          "passed": 31,
+          "pct_passed": 28.44,
+          "first_timers": 49,
+          "first_time_passed": 21,
+          "pct_first_time_passed": 42.86
+        },
+        {
+          "month": "February",
+          "candidates": 101,
+          "passed": 43,
+          "pct_passed": 42.57,
+          "first_timers": 54,
+          "first_time_passed": 31,
+          "pct_first_time_passed": 57.41
+        },
+        {
+          "month": "March",
+          "candidates": 171,
+          "passed": 65,
+          "pct_passed": 38.01,
+          "first_timers": 81,
+          "first_time_passed": 51,
+          "pct_first_time_passed": 62.96
+        },
+        {
+          "month": "April",
+          "candidates": 180,
+          "passed": 82,
+          "pct_passed": 45.56,
+          "first_timers": 82,
+          "first_time_passed": 59,
+          "pct_first_time_passed": 71.95
+        },
+        {
+          "month": "May",
+          "candidates": 151,
+          "passed": 67,
+          "pct_passed": 44.37,
+          "first_timers": 75,
+          "first_time_passed": 54,
+          "pct_first_time_passed": 72.0
+        },
+        {
+          "month": "June",
+          "candidates": 188,
+          "passed": 65,
+          "pct_passed": 34.57,
+          "first_timers": 80,
+          "first_time_passed": 48,
+          "pct_first_time_passed": 60.0
+        },
+        {
+          "month": "July",
+          "candidates": 158,
+          "passed": 68,
+          "pct_passed": 43.04,
+          "first_timers": 71,
+          "first_time_passed": 47,
+          "pct_first_time_passed": 66.2
+        },
+        {
+          "month": "August",
+          "candidates": 152,
+          "passed": 48,
+          "pct_passed": 31.58,
+          "first_timers": 49,
+          "first_time_passed": 25,
+          "pct_first_time_passed": 51.02
+        },
+        {
+          "month": "September",
+          "candidates": 143,
+          "passed": 55,
+          "pct_passed": 38.46,
+          "first_timers": 53,
+          "first_time_passed": 29,
+          "pct_first_time_passed": 54.72
+        },
+        {
+          "month": "October",
+          "candidates": 155,
+          "passed": 59,
+          "pct_passed": 38.06,
+          "first_timers": 51,
+          "first_time_passed": 34,
+          "pct_first_time_passed": 66.67
+        },
+        {
+          "month": "November",
+          "candidates": 119,
+          "passed": 39,
+          "pct_passed": 32.77,
+          "first_timers": 42,
+          "first_time_passed": 20,
+          "pct_first_time_passed": 47.62
+        },
+        {
+          "month": "December",
+          "candidates": 152,
+          "passed": 47,
+          "pct_passed": 30.92,
+          "first_timers": 61,
+          "first_time_passed": 33,
+          "pct_first_time_passed": 54.1
+        }
+      ],
+      "total": {
+        "candidates": 1779,
+        "passed": 669,
+        "pct_passed": 37.61,
+        "first_timers": 748,
+        "first_time_passed": 452,
+        "pct_first_time_passed": 60.43
+      }
+    },
+    "2025": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 128,
+          "passed": 48,
+          "pct_passed": 37.5,
+          "first_timers": 57,
+          "first_time_passed": 38,
+          "pct_first_time_passed": 66.67
+        },
+        {
+          "month": "February",
+          "candidates": 140,
+          "passed": 55,
+          "pct_passed": 39.29,
+          "first_timers": 68,
+          "first_time_passed": 42,
+          "pct_first_time_passed": 61.76
+        },
+        {
+          "month": "March",
+          "candidates": 152,
+          "passed": 67,
+          "pct_passed": 44.08,
+          "first_timers": 74,
+          "first_time_passed": 46,
+          "pct_first_time_passed": 62.16
+        },
+        {
+          "month": "April",
+          "candidates": 211,
+          "passed": 85,
+          "pct_passed": 40.28,
+          "first_timers": 108,
+          "first_time_passed": 71,
+          "pct_first_time_passed": 65.74
+        },
+        {
+          "month": "May",
+          "candidates": 167,
+          "passed": 62,
+          "pct_passed": 37.13,
+          "first_timers": 67,
+          "first_time_passed": 42,
+          "pct_first_time_passed": 62.69
+        },
+        {
+          "month": "June",
+          "candidates": 165,
+          "passed": 63,
+          "pct_passed": 38.18,
+          "first_timers": 73,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 60.27
+        },
+        {
+          "month": "July",
+          "candidates": 223,
+          "passed": 83,
+          "pct_passed": 37.22,
+          "first_timers": 103,
+          "first_time_passed": 54,
+          "pct_first_time_passed": 52.43
+        },
+        {
+          "month": "August",
+          "candidates": 143,
+          "passed": 44,
+          "pct_passed": 30.77,
+          "first_timers": 57,
+          "first_time_passed": 28,
+          "pct_first_time_passed": 49.12
+        },
+        {
+          "month": "September",
+          "candidates": 136,
+          "passed": 47,
+          "pct_passed": 34.56,
+          "first_timers": 57,
+          "first_time_passed": 27,
+          "pct_first_time_passed": 47.37
+        },
+        {
+          "month": "October",
+          "candidates": 167,
+          "passed": 48,
+          "pct_passed": 28.74,
+          "first_timers": 49,
+          "first_time_passed": 28,
+          "pct_first_time_passed": 57.14
+        },
+        {
+          "month": "November",
+          "candidates": 106,
+          "passed": 29,
+          "pct_passed": 27.36,
+          "first_timers": 38,
+          "first_time_passed": 23,
+          "pct_first_time_passed": 60.53
+        },
+        {
+          "month": "December",
+          "candidates": 171,
+          "passed": 65,
+          "pct_passed": 38.01,
+          "first_timers": 68,
+          "first_time_passed": 37,
+          "pct_first_time_passed": 54.41
+        }
+      ],
+      "total": {
+        "candidates": 1909,
+        "passed": 696,
+        "pct_passed": 36.46,
+        "first_timers": 819,
+        "first_time_passed": 480,
+        "pct_first_time_passed": 58.61
+      }
+    },
+    "2026": {
+      "complete": false,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 125,
+          "passed": 44,
+          "pct_passed": 35.2,
+          "first_timers": 45,
+          "first_time_passed": 26,
+          "pct_first_time_passed": 57.78
+        },
+        {
+          "month": "February",
+          "candidates": 153,
+          "passed": 52,
+          "pct_passed": 33.99,
+          "first_timers": 66,
+          "first_time_passed": 34,
+          "pct_first_time_passed": 51.52
+        },
+        {
+          "month": "March",
+          "candidates": 193,
+          "passed": 82,
+          "pct_passed": 42.49,
+          "first_timers": 76,
+          "first_time_passed": 54,
+          "pct_first_time_passed": 71.05
+        },
+        {
+          "month": "April",
+          "candidates": 152,
+          "passed": 64,
+          "pct_passed": 42.11,
+          "first_timers": 73,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 60.27
+        }
+      ],
+      "total": {
+        "candidates": 623,
+        "passed": 242,
+        "pct_passed": 38.84,
+        "first_timers": 260,
+        "first_time_passed": 158,
+        "pct_first_time_passed": 60.77
+      }
+    },
+    "2006": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 64,
+          "passed": 37,
+          "pct_passed": 57.81,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "February",
+          "candidates": 65,
+          "passed": 49,
+          "pct_passed": 75.38,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "March",
+          "candidates": 79,
+          "passed": 46,
+          "pct_passed": 58.23,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "April",
+          "candidates": 80,
+          "passed": 49,
+          "pct_passed": 61.25,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "May",
+          "candidates": 65,
+          "passed": 36,
+          "pct_passed": 55.38,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "June",
+          "candidates": 105,
+          "passed": 70,
+          "pct_passed": 66.67,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "July",
+          "candidates": 104,
+          "passed": 69,
+          "pct_passed": 66.35,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "August",
+          "candidates": 108,
+          "passed": 60,
+          "pct_passed": 55.56,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "September",
+          "candidates": 69,
+          "passed": 47,
+          "pct_passed": 68.11,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "October",
+          "candidates": 61,
+          "passed": 37,
+          "pct_passed": 60.66,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "November",
+          "candidates": 54,
+          "passed": 30,
+          "pct_passed": 55.55,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "December",
+          "candidates": 107,
+          "passed": 48,
+          "pct_passed": 45.85,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        }
+      ],
+      "total": {
+        "candidates": 961,
+        "passed": 578,
+        "pct_passed": 60.15,
+        "first_timers": null,
+        "first_time_passed": null,
+        "pct_first_time_passed": null
+      }
+    },
+    "2007": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 54,
+          "passed": 36,
+          "pct_passed": 66.67,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "February",
+          "candidates": 61,
+          "passed": 45,
+          "pct_passed": 73.77,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "March",
+          "candidates": 69,
+          "passed": 41,
+          "pct_passed": 59.42,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "April",
+          "candidates": 70,
+          "passed": 42,
+          "pct_passed": 60.0,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "May",
+          "candidates": 67,
+          "passed": 42,
+          "pct_passed": 62.68,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "June",
+          "candidates": 68,
+          "passed": 46,
+          "pct_passed": 67.64,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "July",
+          "candidates": 57,
+          "passed": 44,
+          "pct_passed": 77.19,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "August",
+          "candidates": 110,
+          "passed": 62,
+          "pct_passed": 55.45,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "September",
+          "candidates": 54,
+          "passed": 37,
+          "pct_passed": 68.51,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "October",
+          "candidates": 54,
+          "passed": 28,
+          "pct_passed": 51.85,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "November",
+          "candidates": 73,
+          "passed": 50,
+          "pct_passed": 68.49,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "December",
+          "candidates": 84,
+          "passed": 49,
+          "pct_passed": 58.33,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        }
+      ],
+      "total": {
+        "candidates": 821,
+        "passed": 522,
+        "pct_passed": 63.58,
+        "first_timers": null,
+        "first_time_passed": null,
+        "pct_first_time_passed": null
+      }
+    },
+    "2008": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 67,
+          "passed": 36,
+          "pct_passed": 53.73,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "February",
+          "candidates": 74,
+          "passed": 49,
+          "pct_passed": 66.21,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "March",
+          "candidates": 97,
+          "passed": 66,
+          "pct_passed": 68.04,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "April",
+          "candidates": 99,
+          "passed": 80,
+          "pct_passed": 80.8,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "May",
+          "candidates": 87,
+          "passed": 54,
+          "pct_passed": 62.06,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "June",
+          "candidates": 100,
+          "passed": 71,
+          "pct_passed": 71.0,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "July",
+          "candidates": 104,
+          "passed": 68,
+          "pct_passed": 65.38,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "August",
+          "candidates": 83,
+          "passed": 46,
+          "pct_passed": 55.42,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "September",
+          "candidates": 79,
+          "passed": 43,
+          "pct_passed": 54.43,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "October",
+          "candidates": 85,
+          "passed": 57,
+          "pct_passed": 67.05,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "November",
+          "candidates": 72,
+          "passed": 48,
+          "pct_passed": 66.66,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        },
+        {
+          "month": "December",
+          "candidates": 104,
+          "passed": 58,
+          "pct_passed": 55.76,
+          "first_timers": null,
+          "first_time_passed": null,
+          "pct_first_time_passed": null
+        }
+      ],
+      "total": {
+        "candidates": 1051,
+        "passed": 676,
+        "pct_passed": 64.32,
+        "first_timers": null,
+        "first_time_passed": null,
+        "pct_first_time_passed": null
+      }
+    },
+    "2009": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 68,
+          "passed": 37,
+          "pct_passed": 54.41,
+          "first_timers": 46,
+          "first_time_passed": 32,
+          "pct_first_time_passed": 69.57
+        },
+        {
+          "month": "February",
+          "candidates": 68,
+          "passed": 48,
+          "pct_passed": 70.59,
+          "first_timers": 23,
+          "first_time_passed": 19,
+          "pct_first_time_passed": 82.61
+        },
+        {
+          "month": "March",
+          "candidates": 113,
+          "passed": 69,
+          "pct_passed": 61.06,
+          "first_timers": 74,
+          "first_time_passed": 60,
+          "pct_first_time_passed": 81.08
+        },
+        {
+          "month": "April",
+          "candidates": 88,
+          "passed": 65,
+          "pct_passed": 73.86,
+          "first_timers": 69,
+          "first_time_passed": 57,
+          "pct_first_time_passed": 82.61
+        },
+        {
+          "month": "May",
+          "candidates": 102,
+          "passed": 71,
+          "pct_passed": 69.61,
+          "first_timers": 73,
+          "first_time_passed": 56,
+          "pct_first_time_passed": 76.71
+        },
+        {
+          "month": "June",
+          "candidates": 122,
+          "passed": 73,
+          "pct_passed": 59.84,
+          "first_timers": 79,
+          "first_time_passed": 56,
+          "pct_first_time_passed": 70.89
+        },
+        {
+          "month": "July",
+          "candidates": 124,
+          "passed": 79,
+          "pct_passed": 63.71,
+          "first_timers": 80,
+          "first_time_passed": 63,
+          "pct_first_time_passed": 78.75
+        },
+        {
+          "month": "August",
+          "candidates": 96,
+          "passed": 60,
+          "pct_passed": 62.5,
+          "first_timers": 65,
+          "first_time_passed": 48,
+          "pct_first_time_passed": 73.85
+        },
+        {
+          "month": "September",
+          "candidates": 93,
+          "passed": 55,
+          "pct_passed": 59.14,
+          "first_timers": 57,
+          "first_time_passed": 40,
+          "pct_first_time_passed": 70.18
+        },
+        {
+          "month": "October",
+          "candidates": 86,
+          "passed": 46,
+          "pct_passed": 53.49,
+          "first_timers": 42,
+          "first_time_passed": 33,
+          "pct_first_time_passed": 78.57
+        },
+        {
+          "month": "November",
+          "candidates": 64,
+          "passed": 52,
+          "pct_passed": 81.25,
+          "first_timers": 33,
+          "first_time_passed": 32,
+          "pct_first_time_passed": 96.97
+        },
+        {
+          "month": "December",
+          "candidates": 102,
+          "passed": 57,
+          "pct_passed": 55.88,
+          "first_timers": 68,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 64.71
+        }
+      ],
+      "total": {
+        "candidates": 1126,
+        "passed": 712,
+        "pct_passed": 63.23,
+        "first_timers": 709,
+        "first_time_passed": 540,
+        "pct_first_time_passed": 76.16
+      }
+    },
+    "2010": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 57,
+          "passed": 31,
+          "pct_passed": 54.39,
+          "first_timers": 37,
+          "first_time_passed": 25,
+          "pct_first_time_passed": 67.57
+        },
+        {
+          "month": "February",
+          "candidates": 80,
+          "passed": 51,
+          "pct_passed": 63.75,
+          "first_timers": 56,
+          "first_time_passed": 41,
+          "pct_first_time_passed": 73.21
+        },
+        {
+          "month": "March",
+          "candidates": 94,
+          "passed": 60,
+          "pct_passed": 63.83,
+          "first_timers": 57,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 77.19
+        },
+        {
+          "month": "April",
+          "candidates": 85,
+          "passed": 56,
+          "pct_passed": 65.88,
+          "first_timers": 59,
+          "first_time_passed": 46,
+          "pct_first_time_passed": 77.97
+        },
+        {
+          "month": "May",
+          "candidates": 102,
+          "passed": 71,
+          "pct_passed": 69.61,
+          "first_timers": 72,
+          "first_time_passed": 56,
+          "pct_first_time_passed": 77.78
+        },
+        {
+          "month": "June",
+          "candidates": 109,
+          "passed": 70,
+          "pct_passed": 64.22,
+          "first_timers": 78,
+          "first_time_passed": 59,
+          "pct_first_time_passed": 75.64
+        },
+        {
+          "month": "July",
+          "candidates": 107,
+          "passed": 64,
+          "pct_passed": 59.81,
+          "first_timers": 76,
+          "first_time_passed": 51,
+          "pct_first_time_passed": 67.11
+        },
+        {
+          "month": "August",
+          "candidates": 79,
+          "passed": 58,
+          "pct_passed": 73.42,
+          "first_timers": 56,
+          "first_time_passed": 46,
+          "pct_first_time_passed": 82.14
+        },
+        {
+          "month": "September",
+          "candidates": 78,
+          "passed": 42,
+          "pct_passed": 53.85,
+          "first_timers": 48,
+          "first_time_passed": 32,
+          "pct_first_time_passed": 66.67
+        },
+        {
+          "month": "October",
+          "candidates": 63,
+          "passed": 40,
+          "pct_passed": 63.49,
+          "first_timers": 39,
+          "first_time_passed": 31,
+          "pct_first_time_passed": 79.49
+        },
+        {
+          "month": "November",
+          "candidates": 93,
+          "passed": 59,
+          "pct_passed": 63.44,
+          "first_timers": 59,
+          "first_time_passed": 49,
+          "pct_first_time_passed": 83.05
+        },
+        {
+          "month": "December",
+          "candidates": 108,
+          "passed": 61,
+          "pct_passed": 56.48,
+          "first_timers": 78,
+          "first_time_passed": 51,
+          "pct_first_time_passed": 65.38
+        }
+      ],
+      "total": {
+        "candidates": 1055,
+        "passed": 663,
+        "pct_passed": 62.84,
+        "first_timers": 715,
+        "first_time_passed": 531,
+        "pct_first_time_passed": 74.27
+      }
+    },
+    "2011": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 60,
+          "passed": 41,
+          "pct_passed": 68.33,
+          "first_timers": 45,
+          "first_time_passed": 37,
+          "pct_first_time_passed": 82.22
+        },
+        {
+          "month": "February",
+          "candidates": 74,
+          "passed": 51,
+          "pct_passed": 68.92,
+          "first_timers": 52,
+          "first_time_passed": 43,
+          "pct_first_time_passed": 82.69
+        },
+        {
+          "month": "March",
+          "candidates": 102,
+          "passed": 66,
+          "pct_passed": 64.71,
+          "first_timers": 65,
+          "first_time_passed": 50,
+          "pct_first_time_passed": 76.92
+        },
+        {
+          "month": "April",
+          "candidates": 59,
+          "passed": 40,
+          "pct_passed": 67.8,
+          "first_timers": 38,
+          "first_time_passed": 32,
+          "pct_first_time_passed": 84.21
+        },
+        {
+          "month": "May",
+          "candidates": 97,
+          "passed": 75,
+          "pct_passed": 77.32,
+          "first_timers": 68,
+          "first_time_passed": 56,
+          "pct_first_time_passed": 82.35
+        },
+        {
+          "month": "June",
+          "candidates": 128,
+          "passed": 96,
+          "pct_passed": 75.0,
+          "first_timers": 96,
+          "first_time_passed": 82,
+          "pct_first_time_passed": 85.42
+        },
+        {
+          "month": "July",
+          "candidates": 129,
+          "passed": 79,
+          "pct_passed": 61.24,
+          "first_timers": 87,
+          "first_time_passed": 65,
+          "pct_first_time_passed": 74.71
+        },
+        {
+          "month": "August",
+          "candidates": 74,
+          "passed": 47,
+          "pct_passed": 63.51,
+          "first_timers": 48,
+          "first_time_passed": 36,
+          "pct_first_time_passed": 75.0
+        },
+        {
+          "month": "September",
+          "candidates": 68,
+          "passed": 34,
+          "pct_passed": 50.0,
+          "first_timers": 45,
+          "first_time_passed": 28,
+          "pct_first_time_passed": 62.22
+        },
+        {
+          "month": "October",
+          "candidates": 65,
+          "passed": 40,
+          "pct_passed": 61.54,
+          "first_timers": 49,
+          "first_time_passed": 36,
+          "pct_first_time_passed": 73.47
+        },
+        {
+          "month": "November",
+          "candidates": 61,
+          "passed": 36,
+          "pct_passed": 59.02,
+          "first_timers": 38,
+          "first_time_passed": 31,
+          "pct_first_time_passed": 81.58
+        },
+        {
+          "month": "December",
+          "candidates": 85,
+          "passed": 40,
+          "pct_passed": 47.06,
+          "first_timers": 47,
+          "first_time_passed": 30,
+          "pct_first_time_passed": 63.83
+        }
+      ],
+      "total": {
+        "candidates": 1002,
+        "passed": 645,
+        "pct_passed": 64.37,
+        "first_timers": 678,
+        "first_time_passed": 526,
+        "pct_first_time_passed": 77.58
+      }
+    },
+    "2012": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 77,
+          "passed": 46,
+          "pct_passed": 59.74,
+          "first_timers": 52,
+          "first_time_passed": 43,
+          "pct_first_time_passed": 82.69
+        },
+        {
+          "month": "February",
+          "candidates": 63,
+          "passed": 38,
+          "pct_passed": 60.32,
+          "first_timers": 37,
+          "first_time_passed": 30,
+          "pct_first_time_passed": 81.08
+        },
+        {
+          "month": "March",
+          "candidates": 83,
+          "passed": 49,
+          "pct_passed": 59.04,
+          "first_timers": 59,
+          "first_time_passed": 43,
+          "pct_first_time_passed": 72.88
+        },
+        {
+          "month": "April",
+          "candidates": 83,
+          "passed": 55,
+          "pct_passed": 66.27,
+          "first_timers": 64,
+          "first_time_passed": 48,
+          "pct_first_time_passed": 75.0
+        },
+        {
+          "month": "May",
+          "candidates": 45,
+          "passed": 29,
+          "pct_passed": 64.44,
+          "first_timers": 28,
+          "first_time_passed": 26,
+          "pct_first_time_passed": 92.86
+        },
+        {
+          "month": "June",
+          "candidates": 120,
+          "passed": 76,
+          "pct_passed": 63.33,
+          "first_timers": 91,
+          "first_time_passed": 65,
+          "pct_first_time_passed": 71.43
+        },
+        {
+          "month": "July",
+          "candidates": 80,
+          "passed": 55,
+          "pct_passed": 68.75,
+          "first_timers": 54,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 81.48
+        },
+        {
+          "month": "August",
+          "candidates": 113,
+          "passed": 69,
+          "pct_passed": 61.06,
+          "first_timers": 84,
+          "first_time_passed": 61,
+          "pct_first_time_passed": 72.62
+        },
+        {
+          "month": "September",
+          "candidates": 365,
+          "passed": 200,
+          "pct_passed": 54.79,
+          "first_timers": 229,
+          "first_time_passed": 163,
+          "pct_first_time_passed": 71.18
+        },
+        {
+          "month": "October",
+          "candidates": 87,
+          "passed": 47,
+          "pct_passed": 54.02,
+          "first_timers": 54,
+          "first_time_passed": 36,
+          "pct_first_time_passed": 66.67
+        },
+        {
+          "month": "November",
+          "candidates": 81,
+          "passed": 43,
+          "pct_passed": 53.09,
+          "first_timers": 53,
+          "first_time_passed": 38,
+          "pct_first_time_passed": 71.7
+        },
+        {
+          "month": "December",
+          "candidates": 104,
+          "passed": 54,
+          "pct_passed": 51.92,
+          "first_timers": 65,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 67.69
+        }
+      ],
+      "total": {
+        "candidates": 1301,
+        "passed": 761,
+        "pct_passed": 58.49,
+        "first_timers": 870,
+        "first_time_passed": 641,
+        "pct_first_time_passed": 73.68
+      }
+    },
+    "2013": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 58,
+          "passed": 37,
+          "pct_passed": 63.79,
+          "first_timers": 38,
+          "first_time_passed": 29,
+          "pct_first_time_passed": 76.32
+        },
+        {
+          "month": "February",
+          "candidates": 69,
+          "passed": 46,
+          "pct_passed": 66.67,
+          "first_timers": 47,
+          "first_time_passed": 37,
+          "pct_first_time_passed": 78.72
+        },
+        {
+          "month": "March",
+          "candidates": 133,
+          "passed": 90,
+          "pct_passed": 67.67,
+          "first_timers": 98,
+          "first_time_passed": 72,
+          "pct_first_time_passed": 73.47
+        },
+        {
+          "month": "April",
+          "candidates": 169,
+          "passed": 109,
+          "pct_passed": 64.5,
+          "first_timers": 115,
+          "first_time_passed": 84,
+          "pct_first_time_passed": 73.04
+        },
+        {
+          "month": "May",
+          "candidates": 88,
+          "passed": 60,
+          "pct_passed": 68.18,
+          "first_timers": 88,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 50.0
+        },
+        {
+          "month": "June",
+          "candidates": 136,
+          "passed": 63,
+          "pct_passed": 46.32,
+          "first_timers": 90,
+          "first_time_passed": 62,
+          "pct_first_time_passed": 68.89
+        },
+        {
+          "month": "July",
+          "candidates": 110,
+          "passed": 76,
+          "pct_passed": 69.09,
+          "first_timers": 63,
+          "first_time_passed": 61,
+          "pct_first_time_passed": 96.83
+        },
+        {
+          "month": "August",
+          "candidates": 123,
+          "passed": 78,
+          "pct_passed": 63.41,
+          "first_timers": 66,
+          "first_time_passed": 62,
+          "pct_first_time_passed": 93.94
+        },
+        {
+          "month": "September",
+          "candidates": 49,
+          "passed": 28,
+          "pct_passed": 57.14,
+          "first_timers": 26,
+          "first_time_passed": 24,
+          "pct_first_time_passed": 92.31
+        },
+        {
+          "month": "October",
+          "candidates": 137,
+          "passed": 72,
+          "pct_passed": 52.55,
+          "first_timers": 55,
+          "first_time_passed": 50,
+          "pct_first_time_passed": 90.91
+        },
+        {
+          "month": "November",
+          "candidates": 95,
+          "passed": 60,
+          "pct_passed": 63.16,
+          "first_timers": 43,
+          "first_time_passed": 38,
+          "pct_first_time_passed": 88.37
+        },
+        {
+          "month": "December",
+          "candidates": 110,
+          "passed": 65,
+          "pct_passed": 59.09,
+          "first_timers": 45,
+          "first_time_passed": 45,
+          "pct_first_time_passed": 100.0
+        }
+      ],
+      "total": {
+        "candidates": 1277,
+        "passed": 784,
+        "pct_passed": 61.39,
+        "first_timers": 774,
+        "first_time_passed": 608,
+        "pct_first_time_passed": 78.55
+      }
+    },
+    "2014": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 61,
+          "passed": 36,
+          "pct_passed": 59.02,
+          "first_timers": 33,
+          "first_time_passed": 25,
+          "pct_first_time_passed": 75.76
+        },
+        {
+          "month": "February",
+          "candidates": 64,
+          "passed": 41,
+          "pct_passed": 64.06,
+          "first_timers": 47,
+          "first_time_passed": 35,
+          "pct_first_time_passed": 74.47
+        },
+        {
+          "month": "March",
+          "candidates": 118,
+          "passed": 75,
+          "pct_passed": 63.56,
+          "first_timers": 83,
+          "first_time_passed": 62,
+          "pct_first_time_passed": 74.7
+        },
+        {
+          "month": "April",
+          "candidates": 114,
+          "passed": 70,
+          "pct_passed": 61.4,
+          "first_timers": 73,
+          "first_time_passed": 49,
+          "pct_first_time_passed": 67.12
+        },
+        {
+          "month": "May",
+          "candidates": 140,
+          "passed": 86,
+          "pct_passed": 61.43,
+          "first_timers": 97,
+          "first_time_passed": 75,
+          "pct_first_time_passed": 77.32
+        },
+        {
+          "month": "June",
+          "candidates": 217,
+          "passed": 154,
+          "pct_passed": 70.97,
+          "first_timers": 165,
+          "first_time_passed": 131,
+          "pct_first_time_passed": 79.39
+        },
+        {
+          "month": "July",
+          "candidates": 443,
+          "passed": 283,
+          "pct_passed": 63.88,
+          "first_timers": 316,
+          "first_time_passed": 227,
+          "pct_first_time_passed": 71.84
+        },
+        {
+          "month": "August",
+          "candidates": 39,
+          "passed": 19,
+          "pct_passed": 48.72,
+          "first_timers": 24,
+          "first_time_passed": 15,
+          "pct_first_time_passed": 62.5
+        },
+        {
+          "month": "September",
+          "candidates": 56,
+          "passed": 30,
+          "pct_passed": 53.57,
+          "first_timers": 29,
+          "first_time_passed": 21,
+          "pct_first_time_passed": 72.41
+        },
+        {
+          "month": "October",
+          "candidates": 51,
+          "passed": 22,
+          "pct_passed": 43.14,
+          "first_timers": 28,
+          "first_time_passed": 11,
+          "pct_first_time_passed": 39.29
+        },
+        {
+          "month": "November",
+          "candidates": 65,
+          "passed": 31,
+          "pct_passed": 47.69,
+          "first_timers": 38,
+          "first_time_passed": 24,
+          "pct_first_time_passed": 63.16
+        },
+        {
+          "month": "December",
+          "candidates": 71,
+          "passed": 40,
+          "pct_passed": 56.34,
+          "first_timers": 48,
+          "first_time_passed": 30,
+          "pct_first_time_passed": 62.5
+        }
+      ],
+      "total": {
+        "candidates": 1439,
+        "passed": 887,
+        "pct_passed": 61.64,
+        "first_timers": 981,
+        "first_time_passed": 705,
+        "pct_first_time_passed": 71.87
+      }
+    },
+    "2015": {
+      "complete": true,
+      "months": [
+        {
+          "month": "January",
+          "candidates": 65,
+          "passed": 32,
+          "pct_passed": 49.23,
+          "first_timers": 24,
+          "first_time_passed": 21,
+          "pct_first_time_passed": 87.5
+        },
+        {
+          "month": "February",
+          "candidates": 44,
+          "passed": 30,
+          "pct_passed": 68.18,
+          "first_timers": 27,
+          "first_time_passed": 27,
+          "pct_first_time_passed": 100.0
+        },
+        {
+          "month": "March",
+          "candidates": 95,
+          "passed": 58,
+          "pct_passed": 61.05,
+          "first_timers": 44,
+          "first_time_passed": 43,
+          "pct_first_time_passed": 97.73
+        },
+        {
+          "month": "April",
+          "candidates": 112,
+          "passed": 68,
+          "pct_passed": 60.71,
+          "first_timers": 63,
+          "first_time_passed": 55,
+          "pct_first_time_passed": 87.3
+        },
+        {
+          "month": "May",
+          "candidates": 126,
+          "passed": 93,
+          "pct_passed": 73.81,
+          "first_timers": 64,
+          "first_time_passed": 62,
+          "pct_first_time_passed": 96.88
+        },
+        {
+          "month": "June",
+          "candidates": 153,
+          "passed": 92,
+          "pct_passed": 60.13,
+          "first_timers": 81,
+          "first_time_passed": 74,
+          "pct_first_time_passed": 91.36
+        },
+        {
+          "month": "July",
+          "candidates": 129,
+          "passed": 81,
+          "pct_passed": 62.79,
+          "first_timers": 68,
+          "first_time_passed": 61,
+          "pct_first_time_passed": 89.71
+        },
+        {
+          "month": "August",
+          "candidates": 122,
+          "passed": 80,
+          "pct_passed": 65.57,
+          "first_timers": 68,
+          "first_time_passed": 64,
+          "pct_first_time_passed": 94.12
+        },
+        {
+          "month": "September",
+          "candidates": 118,
+          "passed": 64,
+          "pct_passed": 54.24,
+          "first_timers": 55,
+          "first_time_passed": 51,
+          "pct_first_time_passed": 92.73
+        },
+        {
+          "month": "October",
+          "candidates": 92,
+          "passed": 53,
+          "pct_passed": 57.61,
+          "first_timers": 41,
+          "first_time_passed": 34,
+          "pct_first_time_passed": 82.93
+        },
+        {
+          "month": "November",
+          "candidates": 99,
+          "passed": 50,
+          "pct_passed": 50.51,
+          "first_timers": 52,
+          "first_time_passed": 44,
+          "pct_first_time_passed": 84.62
+        },
+        {
+          "month": "December",
+          "candidates": 111,
+          "passed": 57,
+          "pct_passed": 51.35,
+          "first_timers": 53,
+          "first_time_passed": 47,
+          "pct_first_time_passed": 88.68
+        }
+      ],
+      "total": {
+        "candidates": 1266,
+        "passed": 758,
+        "pct_passed": 59.87,
+        "first_timers": 640,
+        "first_time_passed": 583,
+        "pct_first_time_passed": 91.09
+      }
+    }
+  }
+}
