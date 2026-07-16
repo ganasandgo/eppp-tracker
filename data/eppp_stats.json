@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.psychology.ca.gov/applicants/exams/statistics.shtml",
-  "last_updated": "2026-07-15T00:00:00Z",
+  "last_updated": "2026-07-16T04:02:38Z",
   "years": {
     "2016": {
       "complete": true,
@@ -1235,12 +1235,12 @@
         },
         {
           "month": "March",
-          "candidates": 193,
-          "passed": 82,
-          "pct_passed": 42.49,
-          "first_timers": 76,
-          "first_time_passed": 54,
-          "pct_first_time_passed": 71.05
+          "candidates": 194,
+          "passed": 83,
+          "pct_passed": 42.78,
+          "first_timers": 77,
+          "first_time_passed": 55,
+          "pct_first_time_passed": 71.43
         },
         {
           "month": "April",
@@ -1250,15 +1250,24 @@
           "first_timers": 73,
           "first_time_passed": 44,
           "pct_first_time_passed": 60.27
+        },
+        {
+          "month": "May",
+          "candidates": 185,
+          "passed": 86,
+          "pct_passed": 46.49,
+          "first_timers": 83,
+          "first_time_passed": 52,
+          "pct_first_time_passed": 62.65
         }
       ],
       "total": {
-        "candidates": 623,
-        "passed": 242,
-        "pct_passed": 38.84,
-        "first_timers": 260,
-        "first_time_passed": 158,
-        "pct_first_time_passed": 60.77
+        "candidates": 809,
+        "passed": 329,
+        "pct_passed": 40.67,
+        "first_timers": 344,
+        "first_time_passed": 211,
+        "pct_first_time_passed": 61.34
       }
     },
     "2006": {
