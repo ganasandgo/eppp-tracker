@@ -567,6 +567,48 @@ function makeChart(canvasId, chartData){
   });
 }
 
+// The chart library loads from a CDN, which ad blockers and some
+// networks occasionally block. Try a second CDN before giving up,
+// and if charts truly can't load, swap in data tables instead of
+// leaving blank space.
+function ensureChartLib(){
+  return new Promise(resolve => {
+    if (typeof Chart !== 'undefined') return resolve(true);
+    const s = document.createElement('script');
+    s.src = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js';
+    s.onload = () => resolve(typeof Chart !== 'undefined');
+    s.onerror = () => resolve(false);
+    document.head.appendChild(s);
+  });
+}
+
+function chartOrFallback(canvasId, chartData, chartsAvailable, fallbackHTML){
+  if(chartsAvailable){
+    try{
+      makeChart(canvasId, chartData);
+      return;
+    }catch(e){ /* fall through to the table fallback */ }
+  }
+  const canvas = document.getElementById(canvasId);
+  const box = canvas && canvas.parentElement;
+  if(box){
+    box.style.height = 'auto';
+    box.innerHTML = fallbackHTML;
+  }
+}
+
+function yearlyFallbackTable(data, years){
+  const rows = years.map(y => {
+    const t = data.years[y].total;
+    const r = deriveRepeat(t);
+    const label = data.years[y].complete ? y : y + ' (YTD)';
+    const ft = t.pct_first_time_passed == null ? '—' : fmtPct(t.pct_first_time_passed);
+    return `<tr><td>${label}</td><td>${fmtPct(t.pct_passed)}</td><td>${ft}</td><td>${r.rate === null ? '—' : fmtPct(r.rate)}</td></tr>`;
+  }).join('');
+  return `<p class="chart-caption" style="margin:0 0 0.75rem;">The interactive chart couldn't load in this browser (often an ad blocker or network filter) — here are the same figures as a table:</p>
+    <table class="data-table"><thead><tr><th>Year</th><th>% Passed</th><th>% First-time</th><th>% Repeat</th></tr></thead><tbody>${rows}</tbody></table>`;
+}
+
 function renderScaleBand(data, years, currentYear, avgAll){
   const rates = years.map(y => ({year: y, rate: data.years[y].total.pct_passed}));
   const nowRate = data.years[currentYear].total.pct_passed;
@@ -674,8 +716,9 @@ function renderScaleBand(data, years, currentYear, avgAll){
     `the repeat-taker rate hiding inside those numbers is ${rptNow.rate === null ? 'not derivable this period' : fmtPct(rptNow.rate)}.`;
 
   // ---- Yearly chart ----
+  const chartsAvailable = await ensureChartLib();
   document.getElementById('yearly-title').textContent = `Yearly overview (${years[0]}–${years[years.length-1]})`;
-  makeChart('yearlyChart', buildYearlyDatasets(data, years, avgAll));
+  chartOrFallback('yearlyChart', buildYearlyDatasets(data, years, avgAll), chartsAvailable, yearlyFallbackTable(data, years));
   document.getElementById('yearly-sr').textContent = years.map(y => {
     const t = data.years[y].total;
     const r = deriveRepeat(t);
@@ -685,7 +728,8 @@ function renderScaleBand(data, years, currentYear, avgAll){
 
   // ---- Current year chart ----
   document.getElementById('current-year-title').textContent = `${ytdLabel} by month`;
-  makeChart('currentYearChart', buildMonthlyDatasets(currentYearData.months, avgAll));
+  chartOrFallback('currentYearChart', buildMonthlyDatasets(currentYearData.months, avgAll), chartsAvailable,
+    '<p class="chart-caption" style="margin:0;">The interactive chart couldn\'t load in this browser (often an ad blocker or network filter) — the exact monthly figures are in the table beside this.</p>');
   document.getElementById('current-sr').textContent = currentYearData.months.map(m => {
     const r = deriveRepeat(m);
     return `${m.month}: ${fmtPct(m.pct_passed)} overall, ${fmtPct(m.pct_first_time_passed)} first-time, ${r.rate === null ? 'repeat rate unavailable' : fmtPct(r.rate) + ' repeat'}, ${fmtNum(m.candidates)} candidates`;
