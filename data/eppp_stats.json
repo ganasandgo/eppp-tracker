@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.psychology.ca.gov/applicants/exams/statistics.shtml",
-  "last_updated": "2026-08-10T16:10:32Z",
+  "last_updated": "2026-11-13T21:33:11Z",
   "years": {
     "2016": {
       "complete": true,
@@ -1217,21 +1217,21 @@
       "months": [
         {
           "month": "January",
-          "candidates": 125,
-          "passed": 44,
-          "pct_passed": 35.2,
-          "first_timers": 45,
-          "first_time_passed": 26,
-          "pct_first_time_passed": 57.78
+          "candidates": 126,
+          "passed": 45,
+          "pct_passed": 35.71,
+          "first_timers": 46,
+          "first_time_passed": 27,
+          "pct_first_time_passed": 58.7
         },
         {
           "month": "February",
-          "candidates": 154,
-          "passed": 53,
-          "pct_passed": 34.42,
-          "first_timers": 67,
-          "first_time_passed": 35,
-          "pct_first_time_passed": 52.24
+          "candidates": 157,
+          "passed": 56,
+          "pct_passed": 35.67,
+          "first_timers": 70,
+          "first_time_passed": 38,
+          "pct_first_time_passed": 54.29
         },
         {
           "month": "March",
@@ -1253,30 +1253,57 @@
         },
         {
           "month": "May",
-          "candidates": 185,
-          "passed": 86,
-          "pct_passed": 46.49,
-          "first_timers": 83,
-          "first_time_passed": 52,
-          "pct_first_time_passed": 62.65
+          "candidates": 186,
+          "passed": 87,
+          "pct_passed": 46.77,
+          "first_timers": 84,
+          "first_time_passed": 53,
+          "pct_first_time_passed": 63.1
         },
         {
           "month": "June",
-          "candidates": 155,
-          "passed": 59,
-          "pct_passed": 38.06,
-          "first_timers": 65,
-          "first_time_passed": 41,
-          "pct_first_time_passed": 63.08
+          "candidates": 156,
+          "passed": 60,
+          "pct_passed": 38.46,
+          "first_timers": 66,
+          "first_time_passed": 42,
+          "pct_first_time_passed": 63.64
+        },
+        {
+          "month": "July",
+          "candidates": 206,
+          "passed": 74,
+          "pct_passed": 35.92,
+          "first_timers": 80,
+          "first_time_passed": 49,
+          "pct_first_time_passed": 61.25
+        },
+        {
+          "month": "August",
+          "candidates": 150,
+          "passed": 57,
+          "pct_passed": 38.0,
+          "first_timers": 53,
+          "first_time_passed": 30,
+          "pct_first_time_passed": 56.6
+        },
+        {
+          "month": "September",
+          "candidates": 128,
+          "passed": 29,
+          "pct_passed": 22.66,
+          "first_timers": 39,
+          "first_time_passed": 15,
+          "pct_first_time_passed": 38.46
         }
       ],
       "total": {
-        "candidates": 965,
-        "passed": 389,
-        "pct_passed": 40.31,
-        "first_timers": 410,
-        "first_time_passed": 253,
-        "pct_first_time_passed": 61.71
+        "candidates": 1455,
+        "passed": 555,
+        "pct_passed": 38.14,
+        "first_timers": 588,
+        "first_time_passed": 353,
+        "pct_first_time_passed": 60.03
       }
     },
     "2006": {
